@@ -3,6 +3,9 @@
 Trabajo Práctico Semáforos primer semestre año 2021
 INFORME - Arnedo Rocío
 
+
+![img](https://github.com/Arnedo-r/sor/blob/37e1822275450e23107264c7c1660d667d714629/img.png)
+
 ##Consigna del Trabajo Práctico
 En la cocina de *Subway Argento* compiten cuatro equipos de cocineros para ganarse el puesto de trabajo en el local. ¿Quién será el primero en entregar 1 sándwich de milanesa terminado, de 15 cm, al dueño del local?
 La dificultad de la competencia es que la cocina no cuenta con el equipamiento individual para cada equipo, sino que algunos de ellos son compartidos. Se tienen que ordenar para cocinar las milanesas ya que solo tienen un sartén para todos los equipos y este cocina una milanesa a la vez, existe solo un horno que cocina dos panes a la vez y un solo salero. ¿Cómo se arma un sándiwch de milanesa?**
